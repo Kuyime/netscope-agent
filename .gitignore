@@ -1,0 +1,17 @@
+# Compilación de PyInstaller
+build/
+dist/
+*.spec
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Registros locales generados en pruebas
+*.csv
